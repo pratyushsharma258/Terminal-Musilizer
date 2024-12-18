@@ -1,4 +1,4 @@
-EXEC = terminamusilizer
+EXEC = terminalmusilizer
 
 CLIB = -I./lib/portaudio/include ./lib/portaudio/lib/.libs/libportaudio.a -lrt -lasound -ljack -pthread
 
